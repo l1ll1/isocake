@@ -1,4 +1,9 @@
-# About ISOCake
+About ISOCake
+===============
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
 ISOCake is the *final* (unofficial) procedure in any ISO9000 compliant organisation.
 
